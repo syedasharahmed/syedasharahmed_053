@@ -19,6 +19,7 @@ public class Task1 {
 		} catch (Exception ex) {
 			System.out.println("INVALID INPUT");
 		}
+		System.out.println("Im Batman");
 	}
 
 }
